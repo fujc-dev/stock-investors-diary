@@ -1,0 +1,8 @@
+{
+  "name": "StockInvestorsDiary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "eef5ff77"
+}
